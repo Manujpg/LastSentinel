@@ -1,6 +1,7 @@
 <img width="1141" height="288" alt="image" src="https://github.com/user-attachments/assets/8dcb9ba2-10d5-4d6c-9bba-3756292b0828" />
 
 
+# Note: This is a Prototype with rudimentary mechanics as this is an ongoing project.
 ## game type: 2D / Terraria | Celeste inspired
 
 a rhythmic bullet hell with a focus on intense boss fights and satisfying gunplay. The art style blends the retro pixel aesthetic of Celeste
