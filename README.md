@@ -1,6 +1,7 @@
-<img width="1129" height="282" alt="image" src="https://github.com/user-attachments/assets/a85406bd-9653-4194-aa8a-ba82db54eb31" />
+<img width="1141" height="288" alt="image" src="https://github.com/user-attachments/assets/8dcb9ba2-10d5-4d6c-9bba-3756292b0828" />
 
-## game type: 2d / Terraria | Celeste inspired
+
+## game type: 2D / Terraria | Celeste inspired
 
 a rhythmic bullet hell with a focus on intense boss fights and satisfying gunplay. The art style blends the retro pixel aesthetic of Celeste
 with the sharp, futuristic feel of Electricman. The game is set in a decaying virtual reality, where you play as a character with Doomslayerlike power, but who is also blind and trapped. The narrative is a psychological journey into a twisted, virtual world inspired by the short
@@ -26,3 +27,11 @@ Doomslayer with the sleekness of Electricman.
 Levels and Bosses
 
 The game is structured as a series of distinct levels, each with its own theme, enemies, and a final boss.
+<img width="675" height="768" alt="image" src="https://github.com/user-attachments/assets/c5715377-c2dc-4f74-b4eb-c2059dd5bcdf" />
+
+---
+<img width="673" height="763" alt="image" src="https://github.com/user-attachments/assets/635e6ba1-17e4-44d2-b26f-29ec9376e9ef" />
+
+
+# First Prototype is Scheduled for January 2026
+- Will include full Mechanics and first Demo Room
